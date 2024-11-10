@@ -1,5 +1,3 @@
-# Coffee_Shop_Sale_Dashboard
-
 # Coffee Shop Sales Dashboard ☕📊
 
 This project showcases a **Coffee Shop Sales Dashboard** created in Microsoft Excel, designed to provide insights into sales performance, customer footfall, product popularity, and ordering patterns.
